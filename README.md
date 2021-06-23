@@ -10,16 +10,13 @@ The file <b>Milene_Eigenheer_Animal_bites_Report.pdf</b> is a short report where
 
 ### :computer: R packages used
 <br>
-<ul>
-<li> :heavy_check_mark: [data.table](https://cran.r-project.org/web/packages/data.table/data.table.pdf)</li>
-<li> :heavy_check_mark: [Tydiverse](https://www.tidyverse.org/)</li>
-<li> :heavy_check_mark: [Lubridate](https://cran.r-project.org/web/packages/lubridate/lubridate.pdf)</li>
-<li> :heavy_check_mark: [ggthemes](https://cran.r-project.org/web/packages/ggthemes/ggthemes.pdf)</li>
-<li> :heavy_check_mark: [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/RColorBrewer.pdf)</li>
-</ul>
-<br>
 
-<br>
+:heavy_check_mark: [data.table](https://cran.r-project.org/web/packages/data.table/data.table.pdf)<br>
+:heavy_check_mark: [Tydiverse](https://www.tidyverse.org/)<br>
+:heavy_check_mark: [Lubridate](https://cran.r-project.org/web/packages/lubridate/lubridate.pdf)<br>
+:heavy_check_mark: [ggthemes](https://cran.r-project.org/web/packages/ggthemes/ggthemes.pdf)<br>
+:heavy_check_mark: [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/RColorBrewer.pdf)<br>
+
 
 ### :nerd_face: Spatial analysis<br>
 All the spatial analysis were conducted at QGis 3.16.5 (2021). The steps were:
