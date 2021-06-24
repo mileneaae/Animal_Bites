@@ -2,7 +2,7 @@
 ### By [Milene Amâncio Alves Eigenheer](https://www.linkedin.com/in/mileneaae)<br>
 
 ## :bookmark_tabs: Description<br>
-This is a brief report about the animal bites data from the perspective of the Louisville Metro Department of Public Health and Wellness. The file <b>[Milene_Eigenheer_Animal_bites_Report.pdf](https://github.com/mileneaae/Animal_Bites/blob/main/Milene_Eigenheer_Animal_bites_Report.pdf)</b> is a short report where I identified interesting insights, explained it, and discussed areas of further research.<br>
+This is a brief report about [animal bites data](https://www.kaggle.com/rtatman/animal-bites) from the Louisville Metro Department of Public Health and Wellness. The file <b>[Milene_Eigenheer_Animal_bites_Report.pdf](https://github.com/mileneaae/Animal_Bites/blob/main/Milene_Eigenheer_Animal_bites_Report.pdf)</b> is a short report where I identified interesting insights, explained it, and discussed areas of further research.<br>
 
 
 ### :computer: R packages used<br>
