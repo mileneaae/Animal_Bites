@@ -8,9 +8,7 @@ The file <b>Milene_Eigenheer_Animal_bites_Report.pdf</b> is a short report where
 <br>
 
 
-### :computer: R packages used
-<br>
-
+### :computer: R packages used<br>
 :heavy_check_mark: [data.table](https://cran.r-project.org/web/packages/data.table/data.table.pdf)<br>
 :heavy_check_mark: [Tydiverse](https://www.tidyverse.org/)<br>
 :heavy_check_mark: [Lubridate](https://cran.r-project.org/web/packages/lubridate/lubridate.pdf)<br>
@@ -18,17 +16,14 @@ The file <b>Milene_Eigenheer_Animal_bites_Report.pdf</b> is a short report where
 :heavy_check_mark: [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/RColorBrewer.pdf)<br>
 
 
-### :nerd_face: Spatial analysis<br>
-All the spatial analysis were conducted at QGis 3.16.5 (2021). The steps were:
-<ul>
-<li> :heavy_check_mark: Importing vector of the limits of the counties in Kentucky</li>
-<li> :heavy_check_mark: Subsetting it to Louisville and save as another shapefile</li>
-<li> :heavy_check_mark: Importing the new file (Louisville limits)</li>
-<li> :heavy_check_mark: Importing the .csv file about intensity of bites per location (“spatial2.csv”) and save it as shapefile</li>
-<li> :heavy_check_mark: Intersecting the points with the limits of the city to get only points inside the city</li>
-<li> :heavy_check_mark: Plotting the new points and classify it by size according to the number of incidents by location</li>
-<li> :heavy_check_mark: Map layout
-</ul>
-<br>
+### :bulb: Spatial analysis<br>
+All the spatial analysis were conducted at QGis 3.16.5 (2021). The steps were:<br>
+:heavy_check_mark: Importing vector of the limits of the counties in Kentucky<br>
+:heavy_check_mark: Subsetting it to Louisville and save as another shapefile<br>
+:heavy_check_mark: Importing the new file (Louisville limits)<br>
+:heavy_check_mark: Importing the .csv file about intensity of bites per location (“spatial2.csv”) and save it as shapefile<br>
+:heavy_check_mark: Intersecting the points with the limits of the city to get only points inside the city<br>
+:heavy_check_mark: Plotting the new points and classify it by size according to the number of incidents by location<br>
+:heavy_check_mark: Map layout<br>
 
 ### Feel free to use and share it :green_heart:
